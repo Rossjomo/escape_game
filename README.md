@@ -4,7 +4,7 @@
 #### Edx: RossMorton
 #### Github: Rossjomo
 #### Video Demo: https://youtu.be/_EeMcXNJJrM
-#### 24.07.24 ??
+#### 24.07.24
 #### Description:
 Escape is a game based on a "choose your own adventure" kind of book where you have to choose doors in order to escape a dungeon. Behind the doors may be an empty hallway or a monster. If you encounter a monster it triggers a D&D or Warhammer style dice rolling battle.
 
