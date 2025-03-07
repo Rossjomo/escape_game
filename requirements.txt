@@ -1,0 +1,4 @@
+# tabulate
+pip install tabulate
+# pyfiglet
+pip install pyfiglet
